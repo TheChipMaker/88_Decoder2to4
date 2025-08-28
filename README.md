@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project implements a **2-to-4 line decoder with enable input** in VHDL. The decoder has:
-
+This project is **synthesizable** and suitable for **Synopsys tools**, and simulation is done using **ModelSim**.
 - **Inputs:**  
   - `A` : 2-bit input  
   - `EN`: Enable input  
