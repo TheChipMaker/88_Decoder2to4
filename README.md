@@ -1,5 +1,5 @@
 # Decoder2to4 VHDL Project
-
+ 
 ## Project Overview
 This project implements a **2-to-4 line decoder with enable input** in VHDL. The decoder has:
 This project is **synthesizable** and suitable for **Synopsys tools**, and simulation is done using **ModelSim**.
